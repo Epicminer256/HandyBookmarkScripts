@@ -6,7 +6,7 @@
 
 
 # Fun facts
-### Ctl+Shift+B Hides/Shows the bookmark bar and Ctl+alt+B focuses the Bookmark bar and allows you to use your arrow key and the enter key to navigate it. Mastering this can allow folders and subfolders to be browsed though easly and can keep your bookmarks clean looking
+### Ctl+Shift+B Hides/Shows the bookmark bar and Shift+Alt+B focuses the Bookmark bar and allows you to use your arrow key and the enter key to navigate it. Mastering this can allow folders and subfolders to be browsed though easly and can keep your bookmarks clean looking
 
 # Here are some examples of some in raw text
 
