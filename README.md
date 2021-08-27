@@ -1,5 +1,5 @@
 # HandyBookmarkScripts
-### Here are some scripts you can use on Chrome/ChromeOS. Some of these include Tab Hiders, Inspect Element (even if it is blocked), Soft/Hard reset, SoundBoard without going to any website, free disk space checking (good for ChromeOS), WiFi portal detection (when clicked redirects you to the WiFi login portal), and a bunch of hidden settings that are not in the settings.
+### Here are 17 bookmark scripts you can use on Chrome/ChromeOS. Some of these include Tab Hiders, Inspect Element (even if it is blocked), Soft/Hard reset, SoundBoard without going to any website, free disk space checking (good for ChromeOS), WiFi portal detection (when clicked redirects you to the WiFi login portal), and a bunch of hidden settings that are not in the settings.
 
 
 # Import The Bookmarks
