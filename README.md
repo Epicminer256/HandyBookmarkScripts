@@ -10,7 +10,7 @@
 ##### `javascript:var title = "Google";document.title = title;var fav = "https://freesvg.org/img/1534129544.png";function setFavicons(favImg){let headTitle = document.querySelector('head');let setFavicon = document.createElement('link');setFavicon.setAttribute('rel','shortcut icon');setFavicon.setAttribute('href',favImg);headTitle.appendChild(setFavicon);}setFavicons(fav);`
 
 ### Manual Tab Hider
-##### `javascript:var title = prompt("Title?", "Home | Schoology");document.title = title;var fav = prompt("Icon URL?", "https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico");function setFavicons(favImg){let headTitle = document.querySelector('head');let setFavicon = document.createElement('link');setFavicon.setAttribute('rel','shortcut icon');setFavicon.setAttribute('href',favImg);headTitle.appendChild(setFavicon);}setFavicons(fav);`
+##### `javascript:var title = prompt("Title?");document.title = title;var fav = prompt("Icon URL?");function setFavicons(favImg){let headTitle = document.querySelector('head');let setFavicon = document.createElement('link');setFavicon.setAttribute('rel','shortcut icon');setFavicon.setAttribute('href',favImg);headTitle.appendChild(setFavicon);}setFavicons(fav);`
 
 ### Inspect Element
 ##### `javascript:var title = prompt("Title?", "Home | Schoology");document.title = title;var fav = prompt("Icon URL?", "https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico");function setFavicons(favImg){let headTitle = document.querySelector('head');let setFavicon = document.createElement('link');setFavicon.setAttribute('rel','shortcut icon');setFavicon.setAttribute('href',favImg);headTitle.appendChild(setFavicon);}setFavicons(fav);`
