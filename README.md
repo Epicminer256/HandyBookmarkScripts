@@ -19,7 +19,4 @@
 ### Inspect Element
 ##### `javascript:(function () {var script=document.createElement('script');script.src='https://x-ray-goggles.mouse.org/webxray.js';script.className='webxray';script.setAttribute('data-lang','en-US');script.setAttribute('data-baseuri','https://x-ray-goggles.mouse.org');document.body.appendChild(script);}())`
 
-### Instantly Play Vine BOOM Sound Effect
-##### `javascript:var audio = new Audio("https://cdn-eu-hz-6.ufile.io/get/lms6joof?token=YmQ1NDZhMDQ1ZTBlZDk1NTFkNDA4YWM5MmM1Y2E2YjY0ZDU4ZmU4MjhjMDNhNDc2ODQ0YTFjMjYzNDVmMGE5MmEzOTE5OGI1N2Y4YjUxZTU3MDM3YmY2ZWMwZGU3ZjdlOTY2OGUzOTE1YjcyNmI2NjhmNGY0ZGIyNjY0MzY2NTc3VVhTTGRIaDZQbWEyNlVCd2RoTjhxRzFuaitHc3ZsTlAzN0w4MERDVmZyMGhhQ0IwOWlZdTQrVXFuYStFR1d1YWkrL2dRRXNMZmRzbWVIZ0lqK205N1RYT3NadDE3eUFhVlNhcm5GaXpQdEJjUHVLYUdGOVI5VjZnYTRKdjZQc285Vml0d2tQdEw1Zmlub0V1UTJPMWlFdTMzOGMzNHp5OW5HTFE2QWJZbWtBT0EzY0wvRkJhY1ZYYklLUlpvRW53WG1vRkdubDdrV2dQRXJ0aGV4ZFBFZjVybGZnVjNIdkpNVlJjUWJlZGNlVUZwOVUxcGpLTjMzQ3lHdEpsWDZK");audio.play();`
-
 ## To get more of these inport the "tools" bookmark file above
