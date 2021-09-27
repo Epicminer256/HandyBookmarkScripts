@@ -4,6 +4,9 @@
 # How To Import The Bookmarks
 ### Importing this requires downloading this html page. Right click the bookmarks bar and goto "Bookmark Manager" On the three dots to the top right hit import and select the html file. Move the "Tools" folder to the root of your bookmarks.
 
+# How can I get notified for new features?
+### (6a) Version checker can check what version your on and what version github is on
+
 # Trouble Shooting
 ### Some bookmarks are removed on some platforms. If you are on ChromeOS every option will be here but on Windows/Mac/Linux some options will be removed like the certificate manager. Most of the bookmarks have to be executed in a website and not a new tab because Javascript cannot run inside of the new tab page.
 
