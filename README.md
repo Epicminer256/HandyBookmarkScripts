@@ -1,5 +1,5 @@
 # HandyBookmarkScripts
-### Here are 17 bookmark scripts (or they are called "bookmarklet") you can use on Chrome/ChromeOS. Some of these include iframed proxys (doesnt goto your chrome history and hides the tab to the site you were on), Tab Hiders, Inspect Element (even if it is blocked), Soft/Hard Chrome reset, SoundBoard, WiFi login portal detection, Advanced Chrome Settings and others
+### Here are 17 bookmark scripts (or they are called "bookmarklet") you can use on any Chrome based system. Some of these include iframed proxys (doesnt goto your chrome history and hides the tab to the site you were on), Tab Hiders, Inspect Element (even if it is blocked), Soft/Hard Chrome reset, SoundBoard, WiFi login portal detection, Advanced Chrome Settings and others
 
 # How To Import The Bookmarks
 ### Importing this requires downloading this html page. Right click the bookmarks bar and goto "Bookmark Manager" On the three dots to the top right hit import and select the html file. Move the "Tools" folder to the root of your bookmarks.
