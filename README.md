@@ -12,8 +12,9 @@
 ### Now everything is set and ready to work!
 
 # Other things you need to know
-### When executing most of these bookmarks you have to be on a webpage becuase they are coded in javascript. This means you cannot use them on your new tab page rather a tab with a webpage on it.
+### Alloy needs chrome security turned off because chrome doesnt like it. It detects it as a "Phishing website". Alloy may be replaced with a better version that chrome may not freak out about.
+### When executing most of these bookmarks you have to be on a tab with a webpage becuase they are coded in javascript. This means you cannot use them on your new tab page rather a tab with a webpage on it.
 ### Every tool entry has a number like (3a) so they don't have to be identified by folder and bookmark name.
 ### Also I update these tools allot, so in order to check your tools version with the latest version use the tool "(6a) Version Checker"
-### Some of the proxys I make have to be refreshed before launching the tool again
-### Alloy needs chrome security turned off because chrome doesnt like it. Alloy may be replaced with a better version.
+### Some of the proxys need to be refreshed before launching a second time
+
