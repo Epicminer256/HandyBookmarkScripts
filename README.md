@@ -4,9 +4,6 @@
 # HandyBookmarkScripts
 ### This is a collection of javascript bookmarks I made. There are 20+ useful tools such as Proxys, Tab Hiders, Inspect Element, Chrome Secret Settings (desktop users have less settings), Soft/Hard Restart (made for chrome os), Soundboard (popout version will be made soon), and more.
 
-# Important!
-## Goto https://chromebrew.nathanross5.repl.co/ for upcoming new versions. 
-
 # How To Import The Bookmarks
 ### 1) Download the tools.html file (you may need to unzip before importing). 
 ### 2) Then right click your bookmark bar and click bookmark manager (or chrome://bookmarks). 
